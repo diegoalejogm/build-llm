@@ -1,2 +1,6 @@
 .venv
 *.pth
+*.csv
+*.zip
+tsv
+readme
