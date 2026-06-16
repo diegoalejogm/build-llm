@@ -70,3 +70,6 @@ build-llm/
 
 The structure and concepts follow Sebastian Raschka's *Build a Large Language Model (From Scratch)*.
 This repository is a personal learning implementation of the ideas presented there.
+
+- Book: [*Build a Large Language Model (From Scratch)* — Manning](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- Source code: [rasbt/LLMs-from-scratch on GitHub](https://github.com/rasbt/LLMs-from-scratch)
